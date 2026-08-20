@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day02{
+public class Info{
     public static void main(String args[]){
         String name;
         int age;
